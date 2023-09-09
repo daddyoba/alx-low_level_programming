@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdlib.h>
-#include <stdio.h>
+
 
 /**
  * *malloc_checked - allocates memory using malloc
- * @b: number of bytes to allocate
+ * @b: input int
  *
  * Return: Nothing.
  */
